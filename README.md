@@ -45,6 +45,8 @@ HW
 
 # 참고 래퍼런스
 - vivado 파일은 digilent 홈페이지에 올라와있는 pcam5c demo 파일을 그대로 사용했습니다.
-  <https://digilent.com/reference/programmable-logic/zybo-z7/demos/pcam-5c>
+
+   <https://digilent.com/reference/programmable-logic/zybo-z7/demos/pcam-5c>
 - yolov5 모델은 아래 깃허브에서 사용했습니다.
-  <https://github.com/ultralytics/yolov5>
+
+   <https://github.com/ultralytics/yolov5>
