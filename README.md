@@ -1,6 +1,6 @@
 # Zybo 7020 petalinux
 
-# Goal : zybo z7-20 보드와 pcam 5c 카메라, yolov5 모델을 통한 구조자 객체 인식
+## Goal : zybo z7-20 보드와 pcam 5c 카메라, yolov5 모델을 통한 구조자 객체 인식
 
 ## Setting & installation
 <SW>
