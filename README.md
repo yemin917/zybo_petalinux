@@ -29,11 +29,19 @@ HW
 1. vivado에서 hardware export (.xsa파일)
 
    -> digilent pcam5c demo 홈페이지 실습 <https://digilent.com/reference/programmable-logic/zybo-z7/demos/pcam-5c>
-3. petalinux 설치 및 패키지 생성
-4. .xsa 파일 하드웨어 연동
-5. petalinux build
-6. sd카드에 BOOT.BIN, image.ub, yolov5_zybo_capture_inference.py(wrapper script), yolov5n.pt 파일 복사
-7. zybo 보드에 sd카드 부팅 <- 현재 이 단계에서 문제 발생, 해결 중
+2. petalinux 설치 및 패키지 생성
+3. .xsa 파일 하드웨어 연동
+4. petalinux build
+5. sd카드에 아래 4가지 파일 복사
+
+  - BOOT.BIN
+  
+  - image.ub
+  
+  - yolov5_zybo_capture_inference.py(wrapper script)
+  
+  - yolov5n.pt 파일 복사
+6. zybo 보드에 sd카드 부팅 <- 현재 이 단계에서 문제 발생, 해결 중
 
 # 참고 래퍼런스
 - vivado 파일은 digilent 홈페이지에 올라와있는 pcam5c demo 파일을 그대로 사용했습니다.
