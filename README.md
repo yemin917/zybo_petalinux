@@ -5,9 +5,13 @@
 ## Setting & installation
 <SW>
 - VMware - Ubuntu 20.04
+  
 - Petalinux 20.01
+- 
 - Vivado 20.01
+- 
 - yolov5
+- 
 <HW>
 - zybo z7-20
 - Pcam5c camera
