@@ -8,9 +8,9 @@ SW
 
 - Ubuntu 20.04
   
-- Petalinux 20.01
+- Petalinux 20.01 -> (수정) 24.02
   
-- Vivado 20.01
+- Vivado 20.01 -> (수정) 24.02
   
 - yolov5
   
