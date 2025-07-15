@@ -41,7 +41,8 @@ HW
   - yolov5_zybo_capture_inference.py(wrapper script)
   
   - yolov5n.pt 파일 복사
-6. zybo 보드에 sd카드 부팅 <- 현재 이 단계에서 문제 발생, 해결 중
+6. zybo 보드에 sd카드 부팅 성공
+7. (현재 이 단계 진행 중)
 
 # 참고 래퍼런스
 - vivado 파일은 digilent 홈페이지에 올라와있는 pcam5c demo 파일을 그대로 사용했습니다.
