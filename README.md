@@ -13,6 +13,8 @@ SW
 - Vivado 20.01 -> (수정) 24.02
   
 - yolov5
+
+- tera term
   
 HW
 - zybo z7-20
