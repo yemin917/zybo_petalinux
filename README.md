@@ -41,7 +41,7 @@ HW
   - yolov5_zybo_capture_inference.py(wrapper script)
   
   - yolov5n.pt 파일 복사
-6. zybo 보드에 sd카드 부팅 성공
+6. zybo 보드에 sd카드 부팅 성공 (tera term에서 리눅스 부팅 성공)
 7. (현재 이 단계 진행 중)
 
 # 참고 래퍼런스
