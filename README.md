@@ -44,8 +44,8 @@ HW
   
   - yolov5n.pt 파일 복사
 6. zybo 보드에 sd카드 부팅 성공 (tera term에서 리눅스 부팅 성공)
-7. tera term 환경에서 pytorch를 사용할 수 없으므로, 우분투에서 yolov5n.pt 파일을 .onnx 파일로 변환 후 복사
-8. .onnx 파일을 tera term으로 복사하기 위해 우분투와 tera term이 서로 양방향 이더넷 통신을 해야하는데 여기서 계속 문제 발생 (우분투에서는 ping이 되는데, tera term에서는 안 되는 상황...)
+7. tera term 환경에서 pytorch를 사용할 수 없으므로, 우분투에서 yolov5n.pt 파일을 .onnx 파일로 변환 후 복사(이더넷 문제로 그냥 sd카드로 복사..)
+8. 
 
 # 참고 래퍼런스
 - vivado 파일은 digilent 홈페이지에 올라와있는 pcam5c demo 파일을 그대로 사용했습니다.
