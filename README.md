@@ -43,7 +43,7 @@ HW
   - yolov5_zybo_capture_inference.py(wrapper script)
   
   - yolov5n.pt 파일 복사
-  - 
+    
 6. zybo 보드에 sd카드 부팅 성공 (tera term에서 리눅스 부팅 성공)
 
 7. tera term 환경에서 pytorch를 사용할 수 없으므로, 우분투에서 yolov5n.pt 파일을 .onnx 파일로 변환 후 복사
