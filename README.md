@@ -50,6 +50,10 @@ HW
 10. 우분투에서 sd카드 인식 후 파일들 복사
 11. 부팅 전 boot.scr 파일 생성
 12. ssh 우분투와 접속 성공
+
+(카메라 송출 test부터)
+13. tera term에서 /dev/video*가 없는 문제 발생 -> kernel에서 v4l관련 패키지들, ov5640 등 추가 후 성공
+14. i2c-tools 패키지도 추가 후 device tree도 수정 중 (system-user.dtsi)
     
 
 # 참고 래퍼런스
